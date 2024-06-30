@@ -9,3 +9,4 @@ Right now I am working through Github's web app interface
 1. Practice creasting changes through GitHub
 2. Practice creating and pushing from the command line
 3. Practice adding text to files and commiting them
+4. Are we able to pull changes from GitHub to our local machine
