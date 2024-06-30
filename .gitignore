@@ -1,0 +1,6 @@
+# We said there are certain files that would
+# be *extremely problematic to track*,
+# so the .gitignore file is a way to tell git
+# what it should not track (ignore)
+
+passwords.txt
